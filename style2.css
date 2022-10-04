@@ -43,6 +43,9 @@ h1{
 #myNavbar ul li a {
 	color: #61122F;
 }
+#myNavbar ul li {
+	font-size: 20px;
+}
 .navbar-brand{
 font-size: 40px;	
 }
