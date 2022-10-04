@@ -33,6 +33,9 @@ body{
 
 h2{
 	text-align: center;
+h1{
+	color:#111010;
+	font-weight: bold;
 }
 #myNavbar ul li a {
 	color: #61122F;
